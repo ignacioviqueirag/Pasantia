@@ -1,0 +1,4 @@
+C:/Users/ignacio.viqueira/Desktop/proyects/build/CMakeFiles/PROYECTS.dir
+C:/Users/ignacio.viqueira/Desktop/proyects/build/CMakeFiles/PACKAGE.dir
+C:/Users/ignacio.viqueira/Desktop/proyects/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ignacio.viqueira/Desktop/proyects/build/CMakeFiles/ZERO_CHECK.dir
